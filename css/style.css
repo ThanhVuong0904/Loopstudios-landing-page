@@ -40,7 +40,7 @@ img{
 /* header mobile */
 .header{
     padding: 3rem 20px;
-    background-image: url(/images/mobile/image-hero.jpg);
+    background-image: url(../images/mobile/image-hero.jpg);
     height: 85vh;
     background-size: cover;
     background-position: center center;
@@ -309,7 +309,7 @@ img{
 
 @media (min-width: 1024px) {
     .header{
-        background-image: url(/images/desktop/image-hero.jpg);
+        background-image: url(../images/desktop/image-hero.jpg);
         background-size: cover;
         background-repeat: no-repeat;
         background-position: center center;
